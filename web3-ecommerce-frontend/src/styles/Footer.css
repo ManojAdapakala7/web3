@@ -1,0 +1,32 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 1.5rem;
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .footer-section h4 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-section p {
+    font-size: 0.9rem;
+    margin: 0;
+  }
+  
+  .footer-social {
+    text-align: center;
+  }
+  
+  .footer-social a {
+    color: #007bff;
+    text-decoration: none;
+    margin: 0 0.5rem;
+  }
+  
+  .footer-social a:hover {
+    text-decoration: underline;
+  }
+  

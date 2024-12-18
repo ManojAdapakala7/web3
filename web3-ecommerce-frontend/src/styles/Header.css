@@ -1,0 +1,53 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .search-bar input {
+    width: 400px;
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+  }
+  
+  .wallet-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .wallet-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .nav-links a {
+    margin-left: 1rem;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  .cart-count {
+    background: red;
+    color: white;
+    font-size: 0.8rem;
+    border-radius: 50%;
+    padding: 0.2rem 0.5rem;
+    margin-left: 0.3rem;
+  }
+  
